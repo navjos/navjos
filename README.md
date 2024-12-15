@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on creative ways to help underbanked communities achieve financial independence, create generational wealth, and make financial literacy more inclusive. 
 - 📫 You can reach me via joss.navas09@gmail.com.
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I run a bilingual personal finance newsletter on Substack, WealthOnThe7. You can become a free subscriber by visiting www.wealthonthe7.substack.com.
+- ⚡ Fun fact: I run a bilingual personal finance newsletter on Substack, WealthOnThe7. You can become a free subscriber by visiting[ www.wealthonthe7.substack.com.](https://wealthonthe7.substack.com/)
 
 <!---
 navjos/navjos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
